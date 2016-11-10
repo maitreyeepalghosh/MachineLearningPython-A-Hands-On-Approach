@@ -21,3 +21,27 @@ df.dtypes
 df.info()
 
 df.describe()
+
+http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
+http://occam.olin.edu/sites/default/files/DataScienceMaterials/machine_learning_lecture_1/Machine%20Learning%20Lecture%201.html
+
+http://blog.districtdatalabs.com/an-introduction-to-machine-learning-with-python
+
+http://www.neural.cz/dataset-exploration-boston-house-pricing.html
+
+https://github.com/tcya/Boston-house-price-prediction/blob/master/boston_housing.py
+
+https://github.com/Nazanin1369/MachineLearning-Boston-Housing-Predictions
+
+
+https://github.com/bzamecnik/neural.cz/blob/master/content/boston-dataset-exploration.md
+
+https://github.com/ggallo/boston-housing/blob/master/boston_housing.ipynb
+
+
+https://github.com/rasbt/python-machine-learning-book
+
+https://books.google.co.in/books?id=d2tLDAAAQBAJ&pg=PA34&lpg=PA34&dq=housing+uci+python&source=bl&ots=M82IjDlF4j&sig=GYcnlwi11vV-H5nTmMU00IbiVGI&hl=en&sa=X&ved=0ahUKEwimhafqrpvQAhUMuI8KHe89BjcQ6AEIIDAA#v=onepage&q=housing%20uci%20python&f=false
+
+http://www.neural.cz/dataset-exploration-boston-house-pricing.html
