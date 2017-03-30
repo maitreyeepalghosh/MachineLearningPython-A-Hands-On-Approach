@@ -1,5 +1,9 @@
 Variables: http://stats.idre.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/
 One hot encoding: https://www.quora.com/What-is-one-hot-encoding-and-when-is-it-used-in-data-science
+LASSO: https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
+Regression: https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/
+Linear regression:https://www.analyticsvidhya.com/blog/tag/linear-regression/
+Caret Functionality: https://www.coursera.org/learn/practical-machine-learning/lecture/Bu9ns/caret-package
 
 
 
@@ -8,3 +12,17 @@ ML Questions:
 https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/
 http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/
 https://elitedatascience.com/machine-learning-interview-questions-answers
+
+Kaggle:
+https://www.kaggle.com/maitreyeepalglobal/d/dalpozz/creditcardfraud/predicting-fraudulent-charges-with-naive-ba-70c7c4/editnb
+https://www.kaggle.com/gzuidhof/data-science-bowl-2017/full-preprocessing-tutorial
+https://www.kaggle.com/maitreyeepalglobal/d/samdeeplearning/deepnlp/bag-of-word-features-for-text-classification/editnb
+https://www.kaggle.com/maitreyeepalglobal/d/uciml/sms-spam-collection-dataset/sms-spam-detection-with-various-classifiers/editnb
+https://www.kaggle.com/overflow012/d/uciml/sms-spam-collection-dataset/text-preprocessing-classification
+
+
+course:
+
+https://www.udacity.com/course/linear-algebra-refresher-course--ud953
+https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009/#
